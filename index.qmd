@@ -1,0 +1,15 @@
+---
+title: "Desmond Chen 陳澤亞"
+image: images/IMG_4041.JPG
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/desmond-chen-589b46163
+    - icon: github
+      text: Github
+      href: https://github.com/zeyachen
+---
+
+Second year Biostatistics PhD student from University of Toronto.

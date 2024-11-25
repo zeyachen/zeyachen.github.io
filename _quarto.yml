@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: blog.qmd
+        text: My blog
+      - icon: github
+        href: https://www.linkedin.com/in/desmond-chen-589b46163
+      - icon: twitter
+        href: https://github.com/zeyachen
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+editor: visual
+
+execute:
+  freeze: auto

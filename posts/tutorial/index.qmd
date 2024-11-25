@@ -1,0 +1,13 @@
+---
+title: "An Effective Visualization-Driven Tool for Power and Sample Size Estimation in Two-Stage General Randomized Basket Trial Designs"
+format: html
+categories: [ShinyApp, code, TrialDesign]
+author: "Desmond"
+---
+
+```{=html}
+<iframe src="https://desmondzeyachen.shinyapps.io/AdaptiveTwoStageBasketTrialFeb14/" width="100%" height="600px" style="border:none;"></iframe>
+```
+
+
+
